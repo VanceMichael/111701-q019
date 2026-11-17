@@ -1,0 +1,8 @@
+{
+  "source": "sample-19",
+  "observedAt": "2026-11-17T08:00:00.000Z",
+  "items": [
+    {"id": "19-A", "label": "供应商发票录入样例甲", "state": "active", "revision": 1},
+    {"id": "19-B", "label": "供应商发票录入样例乙", "state": "pending", "revision": 1}
+  ]
+}
